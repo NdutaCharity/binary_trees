@@ -30,4 +30,4 @@ Binary Trees
   * Postorder Traversal − Traverses a tree in a post-order manner.
 
 ```binary_tree_print.c``` : C function that prints binary trees in a pretty way.
-[```binary_trees.h```] (https://github.com/NdutaCharity/binary_trees/blob/main/binary_tree_print.c) : Header file containing definitions and prototypes for all types and functions written for the project.
+[binary_trees.h](https://github.com/NdutaCharity/binary_trees/blob/main/binary_tree_print.c) : Header file containing definitions and prototypes for all types and functions written for the project.
