@@ -1,4 +1,6 @@
-# General objectives
+Binary Trees
+
+## Learning objectives
    1. What is a binary tree
    2. What is the difference between a binary tree and a Binary Search Tree
    3. What is the possible gain in terms of time complexity compared to linked lists
@@ -26,3 +28,5 @@
   * Preorder Traversal − Traverses a tree in a pre-order manner.
   * Inorder Traversal − Traverses a tree in an in-order manner.
   * Postorder Traversal − Traverses a tree in a post-order manner.
+
+```binary_tree_print.c``` : C function that prints binary trees in a pretty way.
