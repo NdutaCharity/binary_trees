@@ -1,4 +1,4 @@
-Binary Trees
+# Binary Trees
 
 ## Learning objectives
    1. What is a binary tree
@@ -29,6 +29,8 @@ Binary Trees
   * Inorder Traversal − Traverses a tree in an in-order manner.
   * Postorder Traversal − Traverses a tree in a post-order manner.
 
+## Helper File 🙌
 [```binary_tree_print.c```](https://github.com/NdutaCharity/binary_trees/blob/main/binary_trees.h) : C function that prints binary trees in a pretty way.
 
+## Header File 📁
 [```binary_trees.h```](https://github.com/NdutaCharity/binary_trees/blob/main/binary_tree_print.c) : Header file containing definitions and prototypes for all types and functions written for the project.
